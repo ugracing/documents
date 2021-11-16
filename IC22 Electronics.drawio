@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T19:31:52.812Z" agent="5.0 (X11)" etag="qKzwZpRjD4O1hxdd2VOh" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T19:38:34.260Z" agent="5.0 (X11)" etag="jKakGR9fkTUZj_4DHDfe" version="15.7.3" type="github">
   <diagram id="DHoDV-LNWHdT2kP48d7S" name="Page-1">
-    <mxGraphModel dx="1761" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-36" value="Engine harness" style="swimlane;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="670" width="260" height="270" as="geometry" />
+          <mxGeometry y="670" width="260" height="270" as="geometry" />
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-37" value="&lt;div align=&quot;left&quot;&gt;MAP sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Oil Pressure sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Coolant temp sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fuel pressure sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Lambda sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Oil temp sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fuel consumption&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Gear advance&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam advance&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Crank errors&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam PWN&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam targ&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Volts (?)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;RPM&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;TPS&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="P4gOrk3cSSqJTjkzEms2-36">
           <mxGeometry x="10" y="30" width="130" height="240" as="geometry" />

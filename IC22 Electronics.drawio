@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T19:26:43.833Z" agent="5.0 (X11)" etag="AYzaFTHZo7JpXKMQOJME" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T19:31:52.812Z" agent="5.0 (X11)" etag="qKzwZpRjD4O1hxdd2VOh" version="15.7.3" type="github">
   <diagram id="DHoDV-LNWHdT2kP48d7S" name="Page-1">
     <mxGraphModel dx="1761" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             <mxPoint x="560" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4gOrk3cSSqJTjkzEms2-9" value="Launch control button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-9" value="Launch control button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="P4gOrk3cSSqJTjkzEms2-9" target="c1CdKB53E6IpENWM82y7-1">
@@ -107,7 +107,7 @@
             <mxPoint x="450" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4gOrk3cSSqJTjkzEms2-15" value="Screen button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-15" value="Screen button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="505" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P4gOrk3cSSqJTjkzEms2-15" target="P4gOrk3cSSqJTjkzEms2-13">
@@ -135,7 +135,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4gOrk3cSSqJTjkzEms2-21" value="Shifting button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-21" value="Shifting button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="1000" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-22" value="Shifting" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
@@ -173,6 +173,18 @@
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-39" value="&lt;div&gt;Injectors&lt;/div&gt;&lt;div&gt;Coil packs&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P4gOrk3cSSqJTjkzEms2-36">
           <mxGeometry x="190" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="830" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-41" value="On Steering wheel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="700" y="830" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;dashed=1;dashPattern=1 2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="860" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-44" value="&lt;div&gt;On Dashboard&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="700" y="860" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

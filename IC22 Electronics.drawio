@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T19:42:31.528Z" agent="5.0 (X11)" etag="5VevXT7hop4q29LqLegI" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T19:42:55.719Z" agent="5.0 (X11)" etag="JCgXU2G6vKVq_l-6gBxk" version="15.7.3" type="github">
   <diagram id="DHoDV-LNWHdT2kP48d7S" name="Page-1">
     <mxGraphModel dx="911" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,13 +128,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4gOrk3cSSqJTjkzEms2-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="c1CdKB53E6IpENWM82y7-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="220" as="sourcePoint" />
-            <mxPoint x="220" y="190" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-21" value="Shifting button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="1000" width="110" height="40" as="geometry" />
         </mxCell>
@@ -195,6 +188,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="500" as="sourcePoint" />
             <mxPoint x="560" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c1CdKB53E6IpENWM82y7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

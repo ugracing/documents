@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T19:39:48.585Z" agent="5.0 (X11)" etag="VNaYpvkb0_6GMMOTyGgd" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T19:42:31.528Z" agent="5.0 (X11)" etag="5VevXT7hop4q29LqLegI" version="15.7.3" type="github">
   <diagram id="DHoDV-LNWHdT2kP48d7S" name="Page-1">
     <mxGraphModel dx="911" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -166,7 +166,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-36" value="Engine harness" style="swimlane;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry y="670" width="260" height="270" as="geometry" />
+          <mxGeometry y="670" width="260" height="270" as="geometry">
+            <mxRectangle y="670" width="120" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-37" value="&lt;div align=&quot;left&quot;&gt;MAP sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Oil Pressure sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Coolant temp sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fuel pressure sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Lambda sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Oil temp sensor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fuel consumption&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Gear advance&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam advance&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Crank errors&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam PWN&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cam targ&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Volts (?)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;RPM&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;TPS&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="P4gOrk3cSSqJTjkzEms2-36">
           <mxGeometry x="10" y="30" width="130" height="240" as="geometry" />
@@ -185,6 +187,15 @@
         </mxCell>
         <mxCell id="P4gOrk3cSSqJTjkzEms2-44" value="&lt;div&gt;On Dashboard&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="700" y="860" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-45" value="Powerboard" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4gOrk3cSSqJTjkzEms2-46" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P4gOrk3cSSqJTjkzEms2-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="415" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
